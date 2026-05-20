@@ -93,6 +93,6 @@ Mô hình CRNN (đặc biệt là biến thể CRNN-GRU Baseline) mang lại s�
 
 ## 10. Link minh chứng
 
-- GitHub commit cuối:
+- GitHub commit cuối: https://github.com/FIT-DNU-CS-16-01/csc4005-lab4-vandat2004/commit/ad6fa393dd6dd03f0695aec5867948df4cd47d22
 - W&B run baseline: https://wandb.ai/datn89367-i-h-c-i-nam/csc4005-lab4-urbansound8k-crnn/runs/jddfiybp?nw=nwuserdatn89367
 - W&B run mở rộng: https://wandb.ai/datn89367-i-h-c-i-nam/csc4005-lab4-urbansound8k-crnn/runs/qh570i7c?nw=nwuserdatn89367
